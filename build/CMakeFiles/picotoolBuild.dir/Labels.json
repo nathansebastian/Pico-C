@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "/mnt/g/Documents/Work/Programming/Pico/pico-projects/blinky/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}
